@@ -2,7 +2,7 @@
 
 You should be able to complete the following tasks in 25 minutes.
 
-You should be able to complete these tasks using any resources you want, _with the exception of any other person online or otherwise_.
+You can complete these tasks using any resources you want, _with the exception of any other person online or otherwise_.
 
 If you pass (see RUBRIC below) the real quiz (not this practice one!), you will be able to convert up to 5 **late** skill drill submissions to **on time**.
 
