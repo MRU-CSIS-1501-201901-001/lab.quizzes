@@ -1,6 +1,6 @@
 # PRACTICE LAB QUIZ 00
 
-You should be able to complete the following tasks in 25 minutes.
+You should be able to complete the following tasks in **25 minutes**.
 
 You can complete these tasks using any resources you want, _with the exception of any other person online or otherwise_.
 
@@ -33,6 +33,6 @@ Log onto INS and do the following:
 
 You will pass this quiz if **all** the following are true:
 
-- your GitHub username shows up in https://github.com/MRU-CSIS-1501-201901-001/lab.00.watch.target/watchers
-- you pass all tests in the lab quiz drill on REPL<span>.</span>IT
+- your GitHub username shows up in https://github.com/MRU-CSIS-1501-201901-001/labs/watchers
+- you pass all tests in the practice lab quiz drill on REPL<span>.</span>IT
 - you have successfully submitted your practice-quiz-00 directory **and** the two desired source files are in the desired directory **and** both files compile without errors **and** there is a valid main **and** the main creates a new PracticeQuiz object
