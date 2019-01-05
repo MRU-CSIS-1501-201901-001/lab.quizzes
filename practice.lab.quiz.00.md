@@ -10,17 +10,17 @@ If you pass (see RUBRIC below) the real quiz (not this practice one!), you will 
 
 Feel free to perform these tasks in any order.
 
-### GitHub [1 mark]
+### GitHub
 
 Ensure that you are watching the 2 repos mentioned in lab.00.
 
-### REPL<span>.</span>IT [3 marks]
+### REPL<span>.</span>IT
 
 Log onto REPL.IT and do the following:
 
 1. Complete `practice lab quiz drill 00`.
 
-### INS [6 marks]
+### INS
 
 Log onto INS and do the following:
 
