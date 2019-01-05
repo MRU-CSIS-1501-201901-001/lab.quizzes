@@ -12,9 +12,7 @@ Feel free to perform these tasks in any order.
 
 ### GitHub [1 mark]
 
-Log into GitHub and do the following:
-
-1. Watch the repo https://github.com/MRU-CSIS-1501-201901-001/lab.00.watch.target
+Ensure that you are watching the 2 repos mentioned in lab.00.
 
 ### REPL<span>.</span>IT [3 marks]
 
