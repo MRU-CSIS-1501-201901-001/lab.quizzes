@@ -10,7 +10,7 @@ The rubric for the real quiz is provided at the bottom of this document.
 
 Log onto INS and do the following:
 
-1. Copy the directory `/users/library/csis/comp1501/quizzes/quiz-01-practice-01` to your home directory.
+1. Copy the directory `/users/library/csis/comp1501/quizzes/01/quiz-01-practice-01` to your home directory.
 1. In the `src` directory of `quiz-01-practice-01`, create a source file for a class called `BitSnake` that fulfills the requirements below. (There is already a working `Main` class source file in `src`. You do not need to alter it.)
 1. If you want to practice submitting: when done, please submit your `quiz-01-practice-01` directory using `submit1501`. When asked for the task identifier, use `quiz91`.
 
