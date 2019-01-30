@@ -11,16 +11,16 @@ The rubric for the real quiz is provided at the bottom of this document.
 Log onto INS and do the following:
 
 1. Copy the directory `/users/library/csis/comp1501/quizzes/01/quiz-01-practice-02` to your home directory.
-1. In the `src` directory of `quiz-01-practice-02`, create a source file for a class called `QuarterWraper` that fulfills the requirements below. (There is already a working `Main` class source file in `src`. You do not need to alter it.)
+1. In the `src` directory of `quiz-01-practice-02`, create a source file for a class called `QuarterWrapper` that fulfills the requirements below. (There is already a working `Main` class source file in `src`. You do not need to alter it.)
 1. If you want to practice submitting: when done, please submit your `quiz-01-practice-02` directory using `submit1501`. When asked for the task identifier, use `quiz92`.
 
 ### REQUIREMENTS
 
-The `QuarterWraper` class represents a device used to wrap quarters into standard rolls (which hold 40 quarters).
+The `QuarterWrapper` class represents a device used to wrap quarters into standard rolls (which hold 40 quarters).
 
 I normally wouldn't tell you this, but for this one, I will: you should make 2 private int instance variables: one for the number of loose quarters this "machine" has, and one for the number of rolls it has. These should both start off as 0.
 
-The `QuarterWraper` class needs to have 5 **public** methods:
+The `QuarterWrapper` class needs to have 5 **public** methods:
 
 1. **receive**
    - has one parameter: an integer number of quarters this wrapper is to receive (you can assume it will be >= 0)
@@ -38,7 +38,7 @@ The `QuarterWraper` class needs to have 5 **public** methods:
    - has no parameters
    - returns the number of loose quarters this machine currently has
 1. **toString**
-   - like any good class that represents something "real", QuarterWraper has a toString
+   - like any good class that represents something "real", QuarterWrapper has a toString
    - returns a reasonable String - you decide what "reasonable" is
 
 #### NOTES
