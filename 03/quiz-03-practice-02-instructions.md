@@ -11,7 +11,7 @@ The rubric for the real quiz is provided at the bottom of this document.
 Log onto INS and do the following:
 
 1. Copy the directory `/users/library/csis/comp1501/quizzes/03/quiz-03-practice-02` to your home directory.
-1. In the `src` directory of `quiz-03-practice-02`, create a source file for a class called `TicketVendor` that fulfills the requirements below. (There is already a working `Main` class source file in `src`. You do not need to alter it - it won't be marked - but if you wish to play with it, be my guest.)
+1. In the `src` directory of `quiz-03-practice-02`, create a source file for a class called `WordFilter` that fulfills the requirements below. (There is already a working `Main` class source file in `src`. You do not need to alter it - it won't be marked - but if you wish to play with it, be my guest.)
 1. If you want to practice submitting, then do the following: when done, please submit your `quiz-03-practice-02` directory using `submit1501`. When asked for the task identifier, use `quiz32`.
 
 ### REQUIREMENTS
