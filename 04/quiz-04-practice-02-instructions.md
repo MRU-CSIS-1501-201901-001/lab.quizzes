@@ -35,7 +35,7 @@ The `RoomInventory` class needs to have the following 4 **public** methods (a co
 1. **roomsWithCapacityAtLeast(`int`)**
 
    - returns an ArrayList<Room> that contains all Rooms in the inventory that have a capacity AT LEAST as large as the given target capacity
-   - if no rooms are in the inventory that fulfill the requirement, this method returns null
+   - if no rooms are in the inventory that fulfill the requirement, this method returns an empty ArrayList
 
 1. **view()**
 
